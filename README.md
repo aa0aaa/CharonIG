@@ -1,6 +1,10 @@
 Dev : Tele - @AA0AAA | My Tele Ch : @Charon_Devloper | INSTA : @LUFFY_HB
 
+==========================
+
 To Run This in Termux
+
+==========================
 
 • pkg update
 
