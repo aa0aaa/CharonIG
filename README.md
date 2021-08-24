@@ -2,9 +2,9 @@ Dev : Tele - @AA0AAA | My Tele Ch : @Charon_Devloper | INSTA : @LUFFY_HB
 
 To Run This in Termux
 
-• apt update
+• pkg update
 
-• apt upgrade
+• pkg upgrade
 
 • pkg install git
 
