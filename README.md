@@ -11,6 +11,8 @@ To Run This in Termux
 
 • pkg install pip
 
+• git clone https://github.com/aa0aaa/CharonIG
+
 ==========================
 
 • pip install requests
