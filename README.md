@@ -1,5 +1,4 @@
 Dev : Tele - @AA0AAA | My Tele Ch : @Charon_Devloper | INSTA : @LUFFY_HB
-
 To Run This in Termux
 
 • apt update
@@ -11,7 +10,9 @@ To Run This in Termux
 • pkg install python
 
 • pkg install pip
+
 ==========================
+
 • pip install requests
 
 • pip install colorama
@@ -19,3 +20,9 @@ To Run This in Termux
 • pip install pyfiglet
 
 • pip install colored
+
+To Use
+==========================
+cd CharonIG
+
+python CharonHunterV2.exe
